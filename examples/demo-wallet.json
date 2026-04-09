@@ -1,0 +1,10 @@
+{
+  "from_token": "USDC",
+  "to_token": "OKB",
+  "amount_usd": "25",
+  "wallet": {
+    "total_value_usd": "120",
+    "stable_reserve_usd": "35",
+    "largest_position_percent": "42"
+  }
+}
